@@ -211,6 +211,12 @@ img {
     justify-content: flex-end;
 }
 
+@media (min-width: 768px) and (max-width: 1200px) {
+    .manual-cont--main, .manual-cont--outro {
+        padding: 45px 75px 105px;
+    }
+}
+
 @media (max-width: 768px) {
     .manual-cont--main, .manual-cont--outro {
         padding: 30px 15px 50px;
