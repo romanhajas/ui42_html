@@ -467,3 +467,158 @@ img {
         font-size: 16px;
     }
 }
+
+.manual-box__text-bottom-left {
+    position: absolute;
+    bottom: 13px;
+    left: 30px;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.manual-box__text-white {
+    color: #fff;
+}
+
+.manual-box__text-black {
+    color: #000;
+}
+
+.manual-box__text-pink {
+    color: #e5007e;
+}
+
+.manual-box__text-yellow {
+    color: var(--yellow);
+}
+
+.manual-box__text-green {
+    color: var(--main-color);
+}
+
+.manual-box__text-red {
+    color: #e5352b;
+}
+
+.manual-box__text-blue {
+    color: #0081b4;
+}
+
+.manual-box__text-orange {
+    color: #ef9020;
+}
+
+.manual-box__text-light-blue {
+    color: #85b7e2;
+}
+
+.manual-box__text-light-green {
+    color: #91be3e;
+}
+
+.manual-box__text-image {
+    width: 32px;
+    height: 32px;
+    margin-top: -5px;
+}
+
+.manual-box__text--flex {
+    display: flex;
+}
+
+.manual-box__smaller {
+    max-width: 30%;
+}
+
+.manual-box__full {
+    width: 100%;
+    max-width: calc(100% - 25px);
+}
+
+.manual-box__height {
+    min-height: 175px;
+    padding: 20px 16px 0 16px;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1.1;
+}
+
+.manual-box__green {
+    background-color: var(--main-color);
+}
+
+.manual-box__yellow {
+    background-color: var(--yellow);
+}
+
+.manual-box__pink {
+    background-color: var(--pink);
+}
+
+.manual-box__white {
+    background-color: #fff;
+    border: 1px solid #eee;
+}
+
+.manual-box__black {
+    background-color: #000;
+}
+
+.manual-box__dark-grey {
+    background-color: #7c878e;
+}
+
+.manual-box__wall {
+    background-color: #f47b7b;
+}
+
+.manual-box__light-blue {
+    background-color: #85b7e2;
+}
+
+.manual-box__orange {
+    background-color: #ef9020;
+}
+
+.manual-box__red {
+    background-color: #e5352b;
+}
+
+.manual-box__light-green {
+    background-color: #91be3e;
+}
+
+.manual-box__blue {
+    background-color: #0081b4;
+}
+
+.manual-box__absolute--left {
+    top: 10px;
+    left: 25px;
+    transform: none;
+    line-height: 1.25;
+}
+
+.manual-box__text-bold {
+    font-weight: bold;
+}
+
+.manual-box__text-small {
+    font-size: 6px;
+}
+
+.manual-box__text-8 {
+    font-size: 8px;
+}
+
+.manual-box__text-width-30 {
+    max-width: 30%;
+}
+
+.manual-box__text-width-40 {
+    max-width: 40%;
+}
+
+.manual-box__text-width-50 {
+    max-width: 50%;
+}
